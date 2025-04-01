@@ -1,5 +1,5 @@
 O jogo de pedra , papel e tesoura.
 
-Feito no JS e HTML.
+Feito no JAVASCRIPTe HTML.
 
 Utilizando o prompt do navegador você vai conseguir jogar esse divertido jogo.
